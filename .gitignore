@@ -7,4 +7,6 @@ puzzles/
 pics/
 lflists/
 expansions/
-decks/
+deck/
+/config/system.conf
+/config/configs.json
